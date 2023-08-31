@@ -1,0 +1,35 @@
+c:\users\software\documents\visual studio 2015\Projects\csharpStockApp\csharpStockApp\bin\Debug\csharpStockApp.exe.config
+c:\users\software\documents\visual studio 2015\Projects\csharpStockApp\csharpStockApp\bin\Debug\csharpStockApp.exe
+c:\users\software\documents\visual studio 2015\Projects\csharpStockApp\csharpStockApp\bin\Debug\csharpStockApp.pdb
+c:\users\software\documents\visual studio 2015\Projects\csharpStockApp\csharpStockApp\obj\Debug\csharpStockApp.csprojResolveAssemblyReference.cache
+c:\users\software\documents\visual studio 2015\Projects\csharpStockApp\csharpStockApp\obj\Debug\csharpStockApp.csproj.GenerateResource.Cache
+c:\users\software\documents\visual studio 2015\Projects\csharpStockApp\csharpStockApp\obj\Debug\csharpStockApp.exe
+c:\users\software\documents\visual studio 2015\Projects\csharpStockApp\csharpStockApp\obj\Debug\csharpStockApp.pdb
+C:\Users\SOFTWARE\Documents\Visual Studio 2015\Projects\csharpStockApp\csharpStockApp\obj\Debug\csharpStockApp.adminReg.resources
+C:\Users\SOFTWARE\Documents\Visual Studio 2015\Projects\csharpStockApp\csharpStockApp\obj\Debug\csharpStockApp.Properties.Resources.resources
+C:\Users\SOFTWARE\Documents\Visual Studio 2015\Projects\csharpStockApp\csharpStockApp\obj\Debug\csharpStockApp.categoryReg.resources
+C:\Users\SOFTWARE\Documents\Visual Studio 2015\Projects\csharpStockApp\csharpStockApp\obj\Debug\csharpStockApp.customerReg.resources
+C:\Users\SOFTWARE\Documents\Visual Studio 2015\Projects\csharpStockApp\csharpStockApp\obj\Debug\csharpStockApp.productReg.resources
+C:\Users\SOFTWARE\Documents\Visual Studio 2015\Projects\csharpStockApp\csharpStockApp\obj\Debug\csharpStockApp.DisplayCat.resources
+C:\Users\SOFTWARE\Documents\Visual Studio 2015\Projects\csharpStockApp\csharpStockApp\obj\Debug\csharpStockApp.DisplayProd.resources
+C:\Users\SOFTWARE\Documents\Visual Studio 2015\Projects\csharpStockApp\csharpStockApp\obj\Debug\csharpStockApp.DisplayCustomer.resources
+C:\Users\SOFTWARE\Documents\Visual Studio 2015\Projects\csharpStockApp\csharpStockApp\obj\Debug\csharpStockApp.frmOrder.resources
+C:\Users\Clifford\Desktop\csharpStockApp\csharpStockApp\bin\Debug\csharpStockApp.exe.config
+C:\Users\Clifford\Desktop\csharpStockApp\csharpStockApp\obj\Debug\csharpStockApp.exe
+C:\Users\Clifford\Desktop\csharpStockApp\csharpStockApp\obj\Debug\csharpStockApp.pdb
+C:\Users\Clifford\Desktop\csharpStockApp\csharpStockApp\bin\Debug\csharpStockApp.exe
+C:\Users\Clifford\Desktop\csharpStockApp\csharpStockApp\bin\Debug\csharpStockApp.pdb
+C:\Users\Clifford\Desktop\csharpStockApp\csharpStockApp\obj\Debug\csharpStockApp.csprojResolveAssemblyReference.cache
+C:\Users\Clifford\Desktop\csharpStockApp\csharpStockApp\obj\Debug\csharpStockApp.adminReg.resources
+C:\Users\Clifford\Desktop\csharpStockApp\csharpStockApp\obj\Debug\csharpStockApp.categoryReg.resources
+C:\Users\Clifford\Desktop\csharpStockApp\csharpStockApp\obj\Debug\csharpStockApp.customerReg.resources
+C:\Users\Clifford\Desktop\csharpStockApp\csharpStockApp\obj\Debug\csharpStockApp.DisplayCat.resources
+C:\Users\Clifford\Desktop\csharpStockApp\csharpStockApp\obj\Debug\csharpStockApp.DisplayCustomer.resources
+C:\Users\Clifford\Desktop\csharpStockApp\csharpStockApp\obj\Debug\csharpStockApp.DisplayProd.resources
+C:\Users\Clifford\Desktop\csharpStockApp\csharpStockApp\obj\Debug\csharpStockApp.frmOrder.resources
+C:\Users\Clifford\Desktop\csharpStockApp\csharpStockApp\obj\Debug\csharpStockApp.productReg.resources
+C:\Users\Clifford\Desktop\csharpStockApp\csharpStockApp\obj\Debug\csharpStockApp.Properties.Resources.resources
+C:\Users\Clifford\Desktop\csharpStockApp\csharpStockApp\obj\Debug\csharpStockApp.csproj.GenerateResource.Cache
+C:\Users\Clifford\Desktop\csharpStockApp\csharpStockApp\obj\Debug\csharpStockApp.DisplayOrder.resources
+C:\Users\Clifford\Desktop\csharpStockApp\csharpStockApp\obj\Debug\csharpStockApp.Parent.resources
+C:\Users\Clifford\Desktop\csharpStockApp\csharpStockApp\obj\Debug\csharpStockApp.frmLogin.resources
